@@ -26,3 +26,7 @@
     扫码或者其他,登录自己的qq
 
 5.运行 main.py 程序
+
+特别感谢
+AUTOMATIC1111 / stable-diffusion-webui
+Lxns-Network / nakuru-project
